@@ -1,5 +1,6 @@
 # Movie-Recommandation-System
-
+# Project Overview:
+This project focuses on developing a movie recommendation system utilizing various techniques to enhance the accuracy and efficiency of movie recommendations.
 # Key Features:
 Recommendation System Development: Developed a recommendation system using CountVectorizer and cosine similarity to provide personalized movie recommendations to users.
 TF-IDF Vectorization: Applied TF-IDF (Term Frequency-Inverse Document Frequency) vectorization to convert movie descriptions into numerical vectors, weighting terms based on their significance in the corpus.
